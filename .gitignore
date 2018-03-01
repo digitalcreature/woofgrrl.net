@@ -1,0 +1,4 @@
+.sass-cache
+public/*.html
+public/style/*.css
+public/style/*.css.map
